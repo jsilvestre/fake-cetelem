@@ -1,0 +1,20 @@
+{
+  "name": "cetelem",
+  "version": "1.0.0",
+  "description": "cetelem description",
+  "cozy-displayName": "Cetelem",
+  "cozy-color": "#3BDA6C",
+  "icon-path": "public/logo-cetelem.png",
+  "author": "Cozy Cloud <contact@cozycloud.cc> (https://cozy.io/)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsilvestre/fake-cetelem.git"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "cozy-permissions": {},
+  "dependencies": {
+    "express": "4.13.4"
+  }
+}
