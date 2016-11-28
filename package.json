@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "cetelem description",
   "cozy-displayName": "Cetelem",
-  "cozy-color": "#3BDA6C",
+  "cozy-color": "#FFFFFF",
   "icon-path": "public/logo-cetelem.png",
   "author": "Cozy Cloud <contact@cozycloud.cc> (https://cozy.io/)",
   "repository": {
